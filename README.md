@@ -1,3 +1,26 @@
+## rqt_runtime_monitor (jazzy) - 1.0.0-6
+
+The packages in the `rqt_runtime_monitor` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rqt_runtime_monitor --override-release-repository-push-url git@github.com:revyos-ros/rqt_runtime_monitor-release` on `Mon, 24 Jun 2024 07:52:33 -0000`
+
+The `rqt_runtime_monitor` package was released.
+
+Version of package(s) in repository `rqt_runtime_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_runtime_monitor.git
+- release repository: https://github.com/revyos-ros/rqt_runtime_monitor-release.git
+- rosdistro version: `1.0.0-5`
+- old version: `1.0.0-5`
+- new version: `1.0.0-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_runtime_monitor (rolling) - 1.0.0-1
 
 The packages in the `rqt_runtime_monitor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling rqt_runtime_monitor --edit` on `Thu, 23 Sep 2021 09:51:38 -0000`
